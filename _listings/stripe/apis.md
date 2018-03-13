@@ -33,7 +33,7 @@ apis:
   tags: Voices
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/voices/master/_listings/stripe/invoices-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/voices/master/_listings/stripe/invoices-post.md
 x-common:
 - type: x-base
   url: https://api.stripe.com/
