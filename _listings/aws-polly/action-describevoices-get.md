@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeVoices&k=1:
+  /?Action=DescribeVoices:
     get:
       summary: ' Describe Voices '
       description: Returns the list of voices that are available for use when requesting
