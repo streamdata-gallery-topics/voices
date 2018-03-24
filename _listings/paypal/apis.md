@@ -20,8 +20,8 @@ tags:
 - Hypermedia
 - Getting Started
 - Billing
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/voices/master/_listings/paypal/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -34,7 +34,7 @@ apis:
   tags: Voices
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/voices/master/_listings/paypal/invoice-createinvoice-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/voices/master/_listings/paypal/invoice-searchinvoices-post.md
 x-common:
 - type: x-base-url
   url: https://api.paypal.com
