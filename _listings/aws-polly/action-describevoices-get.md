@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Polly API
+  title: AWS Polly API Describe Voices
   version: 1.0.0
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
 schemes:
 - http
 produces:
